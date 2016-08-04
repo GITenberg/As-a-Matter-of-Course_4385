@@ -1,0 +1,34 @@
+_repo: As-a-Matter-of-Course_4385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Call, Annie Payson
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '1451'
+    url: http://www.gutenberg.org/2009/agents/1451
+description: In climbing a mountain, if we know the path and take it as a matter of
+  course, we are free to enjoy the beauties of the surrounding country. If in the
+  same journey we see a stone in the way and recognize our ability to step over it,
+  we do so at once, and save ourselves from tripping or from useless waste of time
+  and thought as to how we might best go round it. There are stones upon stones in
+  every-day life which might be stepped over with perfect ease, but which, curiously
+  enough ...
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental health -- Popular works'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: Introduction -- Physical care -- Amusements -- Brain impressions
+  -- The triviality of trivialities -- Moods -- Tolerance -- Sympathy -- Others --
+  One's self -- Children -- Illness -- Sentiment versus sentimentality -- Problems
+  -- Summary.
+title: As a Matter of Course
+url: http://www.gutenberg.org/ebooks/4385
