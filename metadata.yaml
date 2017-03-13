@@ -1,5 +1,8 @@
 _repo: As-a-Matter-of-Course_4385
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Call, Annie Payson
@@ -14,6 +17,8 @@ description: In climbing a mountain, if we know the path and take it as a matter
   and thought as to how we might best go round it. There are stones upon stones in
   every-day life which might be stepped over with perfect ease, but which, curiously
   enough ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4385#As-a-Matter-of-Course
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
